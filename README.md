@@ -6,3 +6,5 @@
 3) Run npm start
 
 Created with React.
+
+<strong><a href="https://ivr-1.github.io/Le-petit-croissant/">See a hosted demo here</a></strong>
