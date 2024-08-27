@@ -1,0 +1,43 @@
+{
+  "files": {
+    "main.css": "/Le-petit-croissant/static/css/main.9877085c.css",
+    "main.js": "/Le-petit-croissant/static/js/main.138dfa76.js",
+    "static/js/453.fd49a42b.chunk.js": "/Le-petit-croissant/static/js/453.fd49a42b.chunk.js",
+    "static/media/hero-foodmenu.png": "/Le-petit-croissant/static/media/hero-foodmenu.1a48226e9286696a92df.png",
+    "static/media/home-cta-reserve.png": "/Le-petit-croissant/static/media/home-cta-reserve.ad5b3078ff202bbe34bd.png",
+    "static/media/b-brioche.jpg": "/Le-petit-croissant/static/media/b-brioche.2000cb160306ad59a626.jpg",
+    "static/media/home-cta-order.png": "/Le-petit-croissant/static/media/home-cta-order.ede89f53cfadd83ed2d5.png",
+    "static/media/l-ratatouille.jpg": "/Le-petit-croissant/static/media/l-ratatouille.af2079e7b84fe3592807.jpg",
+    "static/media/hero-order.png": "/Le-petit-croissant/static/media/hero-order.6779c9735ec9c53556bc.png",
+    "static/media/home-cta-menu.png": "/Le-petit-croissant/static/media/home-cta-menu.0b6100f9221a50a24ae4.png",
+    "static/media/b-quiche.jpg": "/Le-petit-croissant/static/media/b-quiche.4193eea7c3fe1d291fcc.jpg",
+    "static/media/l-salad.jpg": "/Le-petit-croissant/static/media/l-salad.9725f0067bf69e162f18.jpg",
+    "static/media/hero-story.png": "/Le-petit-croissant/static/media/hero-story.bf9b05faddbbdb591f68.png",
+    "static/media/l-soup.jpg": "/Le-petit-croissant/static/media/l-soup.07933f9d61661abc4129.jpg",
+    "static/media/hero-main.png": "/Le-petit-croissant/static/media/hero-main.4c6821dbc9f10b323739.png",
+    "static/media/hero-contact.png": "/Le-petit-croissant/static/media/hero-contact.d9a071b572a8e0c84a61.png",
+    "static/media/b-baguette.jpeg": "/Le-petit-croissant/static/media/b-baguette.85bde4347832fb646dc4.jpeg",
+    "static/media/b-fougasse.jpg": "/Le-petit-croissant/static/media/b-fougasse.b7afd3c587b6c73cade0.jpg",
+    "static/media/l-croque.jpg": "/Le-petit-croissant/static/media/l-croque.186a9111af9f1e19333c.jpg",
+    "static/media/d-prof.jpg": "/Le-petit-croissant/static/media/d-prof.4c3517555afada40921a.jpg",
+    "static/media/d-brulee.jpg": "/Le-petit-croissant/static/media/d-brulee.8121da3dac092e219715.jpg",
+    "static/media/story-statue.png": "/Le-petit-croissant/static/media/story-statue.9c0642c8ccd13c6caf3c.png",
+    "static/media/review-google.png": "/Le-petit-croissant/static/media/review-google.952fcf0905408efec467.png",
+    "static/media/review-yelp.png": "/Le-petit-croissant/static/media/review-yelp.b03e685a3031da4a355d.png",
+    "static/media/d-macaron.jpg": "/Le-petit-croissant/static/media/d-macaron.f1e101254a4acab0d74c.jpg",
+    "static/media/d-paris.jpg": "/Le-petit-croissant/static/media/d-paris.0b14339eb00bfb037a27.jpg",
+    "static/media/story-tower.png": "/Le-petit-croissant/static/media/story-tower.d33d8bdf21411235203a.png",
+    "static/media/review-michelin.png": "/Le-petit-croissant/static/media/review-michelin.364de6b771b6a9fef6a5.png",
+    "static/media/hero-bg.jpg": "/Le-petit-croissant/static/media/hero-bg.52159092e35dc3548fbd.jpg",
+    "static/media/logo.png": "/Le-petit-croissant/static/media/logo.dc549d87ba6c0c6342a3.png",
+    "static/media/story-roller.png": "/Le-petit-croissant/static/media/story-roller.f0c21cd0734e9a10d2b9.png",
+    "index.html": "/Le-petit-croissant/index.html",
+    "main.9877085c.css.map": "/Le-petit-croissant/static/css/main.9877085c.css.map",
+    "main.138dfa76.js.map": "/Le-petit-croissant/static/js/main.138dfa76.js.map",
+    "453.fd49a42b.chunk.js.map": "/Le-petit-croissant/static/js/453.fd49a42b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9877085c.css",
+    "static/js/main.138dfa76.js"
+  ]
+}
