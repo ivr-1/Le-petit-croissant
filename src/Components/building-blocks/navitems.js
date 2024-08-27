@@ -9,7 +9,7 @@ const navItems = [
       path: "/ourstory",
       component: Story,
       meta: {
-        title: "Our Story - Le Petit Croissant",
+        title: "Our Story",
         description: "Learn more about the history and background of Le Petit Croissant.",
         ogTitle: "Our Story - Le Petit Croissant",
         ogDescription: "Discover the legacy of our restaurant.",
@@ -21,7 +21,7 @@ const navItems = [
       path: "/foodmenu",
       component: Foodmenu,
       meta: {
-        title: "Menu - Le Petit Croissant",
+        title: "Menu",
         description: "Explore our delicious menu offerings at Le Petit Croissant.",
         ogTitle: "Menu - Le Petit Croissant",
         ogDescription: "Check out our various dishes and offerings.",
@@ -33,7 +33,7 @@ const navItems = [
       path: "/order",
       component: Order,
       meta: {
-        title: "Order - Le Petit Croissant",
+        title: "Order",
         description: "Place your order online at Le Petit Croissant.",
         ogTitle: "Order - Le Petit Croissant",
         ogDescription: "Order your favorite dishes from Le Petit Croissant online.",
@@ -45,7 +45,7 @@ const navItems = [
       path: "/contact",
       component: Contact,
       meta: {
-        title: "Contact Us - Le Petit Croissant",
+        title: "Contact Us",
         description: "Get in touch with us at Le Petit Croissant.",
         ogTitle: "Contact Us - Le Petit Croissant",
         ogDescription: "We'd love to hear from you. Contact us today!",
