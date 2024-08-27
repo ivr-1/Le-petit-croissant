@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Le-petit-croissant/static/css/main.9877085c.css",
-    "main.js": "/Le-petit-croissant/static/js/main.98aad1df.js",
+    "main.js": "/Le-petit-croissant/static/js/main.52af71b7.js",
     "static/js/453.fd49a42b.chunk.js": "/Le-petit-croissant/static/js/453.fd49a42b.chunk.js",
     "static/media/hero-foodmenu.png": "/Le-petit-croissant/static/media/hero-foodmenu.1a48226e9286696a92df.png",
     "static/media/home-cta-reserve.png": "/Le-petit-croissant/static/media/home-cta-reserve.ad5b3078ff202bbe34bd.png",
@@ -33,11 +33,11 @@
     "static/media/story-roller.png": "/Le-petit-croissant/static/media/story-roller.f0c21cd0734e9a10d2b9.png",
     "index.html": "/Le-petit-croissant/index.html",
     "main.9877085c.css.map": "/Le-petit-croissant/static/css/main.9877085c.css.map",
-    "main.98aad1df.js.map": "/Le-petit-croissant/static/js/main.98aad1df.js.map",
+    "main.52af71b7.js.map": "/Le-petit-croissant/static/js/main.52af71b7.js.map",
     "453.fd49a42b.chunk.js.map": "/Le-petit-croissant/static/js/453.fd49a42b.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.9877085c.css",
-    "static/js/main.98aad1df.js"
+    "static/js/main.52af71b7.js"
   ]
 }
