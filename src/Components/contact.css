@@ -110,3 +110,16 @@
     font-size: 1.1rem;
   }
 }
+
+@media screen and (max-width: 1000px) and (orientation: landscape) {
+  .contact-container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    max-width: 900px;
+    margin: 0 auto;
+    padding: 20px 100px 0 100px;
+  }
+}

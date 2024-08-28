@@ -27,7 +27,7 @@ function DesktopNav({ navItems, setReserveShow }) {
       <div>
         <Button 
           buttonText="Reserve a Table"
-          marginOverride="0"
+          marginOverride="0 10vw 0 0"
           heightOverride="34px"
           handleClick={() => setReserveShow(true)}
         />
@@ -79,7 +79,12 @@ function MobileNavSplash({ setSplashOpen, navItems, splashOpen, resize, setReser
             <li onClick={() => setSplashOpen(false)}>{item.name}</li>
           </Link>
         ))}
-        <button onClick={() => { setReserveShow(true); setSplashOpen(false); }}>Reserve a Table</button>
+        <Button 
+          buttonText="Reserve a Table"
+          marginOverride="0 0 0 0"
+          heightOverride=""
+          handleClick={() => setReserveShow(true)}
+        />
         <Social iconGap="35px" iconSize="30px" />
         <button className='mobile-splash-exit' onClick={() => setSplashOpen(false)}>
           ×

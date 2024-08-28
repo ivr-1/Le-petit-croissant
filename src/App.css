@@ -30,3 +30,40 @@ main {
     padding-top: 52px;
     flex: 1 0 auto;
 }
+
+:root {
+    --main-text: #575D56;
+    --secondary-text: #FFF0F0;
+    --primary: #62938A;
+    --primary-light: #8BAEA7;
+    --secondary: #FFA1A1;
+    --secondary-light: #FFC6C6;
+    --font-primary: "RocknRoll One", sans-serif;
+    --font-secondary: "Judson", serif;
+    --font-logo: "Risque", serif;
+}
+
+html, body {
+    margin: 0;
+    padding: 0;
+    width: 100%;
+    overflow-x: hidden;  /* Prevent horizontal scroll */
+}
+
+.container {
+    display: flex;
+    flex-direction: column;
+}
+
+.main-container {
+    background-color: #F0F0EE;
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;
+    width: 100%; /* Changed from 100vw to 100% */
+}
+
+main {
+    padding-top: 52px;
+    flex: 1 0 auto;
+}
